@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_change_pin"
+            android:title="Change Pin" />
+        <item
+
+            android:id="@+id/nav_terms_condition"
+            android:title="Terms &amp; Condition" />
+        <item
+            android:id="@+id/nav_atm"
+            android:title="ATM &amp; Branch" />
+
+        <item
+            android:id="@+id/nav_emi"
+            android:title="EMI Calculator" />
+        <item
+            android:id="@+id/nav_contact"
+            android:title="Contact Us" />
+
+        <item
+            android:id="@+id/nav_settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout" />
+
+    </group>
+</menu>
